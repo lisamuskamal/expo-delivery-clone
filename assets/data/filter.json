@@ -1,0 +1,42 @@
+ [
+    {
+        "name" : "Acai",
+        "count" : 3
+    },
+    {
+        "name" : "African",
+        "count" : 4
+    },
+    {
+        "name" : "Alcohol",
+        "count" : 6
+    },
+    {
+        "name" : "American",
+        "count" : 9
+    },
+    {
+        "name" : "BBQ",
+        "count" : 6
+    },
+    {
+        "name" : "Indian",
+        "count" : 7
+    },
+    {
+        "name" : "Snacks",
+        "count" : 8
+    },
+    {
+        "name" : "Spice",
+        "count" : 1
+    },
+    {
+        "name" : "Chinese",
+        "count" : 7
+    },
+    {
+        "name" : "Soups",
+        "count" : 3
+    }
+]

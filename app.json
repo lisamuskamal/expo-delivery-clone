@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc8e3997-fca9-4da2-8df7-459e32b60062"
+      }
+    },
+    "owner": "lisamuskamal"
   }
 }
